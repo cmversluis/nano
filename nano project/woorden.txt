@@ -1,0 +1,3 @@
+makkelijk:appel,boom,fiets,auto,huis
+gemiddeld:computer,telefoon,software,gezicht,scherm
+moeilijk:programmeur,complexiteit,innovatie,geometrie,filosofie
